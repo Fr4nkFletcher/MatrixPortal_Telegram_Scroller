@@ -48,7 +48,7 @@ Software Setup
       CIRCUITPY_WIFI_PASSWORD = "YOUR_PASSWORD"
 
 Setting Up Telegram
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
 
 These are the steps you need to get a bot token to use in your project:
 
@@ -81,4 +81,4 @@ Acknowledgments
 
 - `Adafruit <https://www.adafruit.com/>`_ for providing the hardware and libraries.
 - `CircuitPython <https://circuitpython.org/>`_ community for their support and development tools.
-- `Brian Lough <https://github.com/witnessmenow>`_ for inspiration from his ScrollingLedMatrixTelegram repo.
+- `Brian Lough <https://github.com/witnessmenow>`_ for inspiration from his `ScrollingLedMatrixTelegram <https://github.com/witnessmenow/ScrollingLEDMatrixTelegram>`_ repo.
