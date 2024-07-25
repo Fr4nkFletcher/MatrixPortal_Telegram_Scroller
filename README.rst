@@ -6,7 +6,7 @@ Adafruit MatrixPortal M4 project to display scrolling text on an LED matrix with
 .. raw:: html
 
    <div align="center">
-       <img src="https://github.com/Fr4nkFletcher/MatrixPortal_Telegram_Scroller/blob/main/readme.gif" alt="Scrolling text on LED matrix">
+       <img src="https://github.com/Fr4nkFletcher/MatrixPortal_Telegram_Scroller/blob/main/demo.gif" alt="Scrolling text on LED matrix">
    </div>
   
 
