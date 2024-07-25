@@ -23,7 +23,7 @@ Hardware Required
 -----------------
 
 - Adafruit MatrixPortal M4
-- 64x32 RGB LED Matrix (HUB75 used in this project)
+- 64x32 RGB LED Matrix (HUB75 display used in this project)
 - Wi-Fi with internet access
 
 Getting Started
